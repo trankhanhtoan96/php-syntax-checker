@@ -1,4 +1,4 @@
-# php-syntax-checker
+# PHP Syntax Checker
 ## For Mac M1
 ```shell
 chmod +x ./php7-syntax-checker-max-m1
