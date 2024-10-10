@@ -2,7 +2,7 @@
 ## For Mac M1
 ```shell
 chmod +x ./php7-syntax-checker-mac-m1
-./php7-syntax-checker-max-m1 <path to your php project>
+./php7-syntax-checker-mac-m1 <path to your php project>
 ```
 
 ## For Window 64bit
