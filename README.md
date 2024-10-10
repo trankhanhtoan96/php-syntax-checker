@@ -10,4 +10,7 @@
 ```
 
 ## Example
+```shell
+./php7-syntax-checker-mac-m1 ./test-php-project
+```
 ![](result.png)
